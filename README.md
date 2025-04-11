@@ -6,7 +6,7 @@ This repository contains a complete step-by-step guide (with screenshots) to hos
 
 Click below to view or download the complete walkthrough:
 
-👉 [AWS S3 Website Hosting - Step by Step (PDF)](./AWS-S3-Static-Website-Hosting..pdf)
+👉 [AWS S3 Website Hosting - Step by Step (PDF)](./AWS-S3-Static-Website-Hosting..pdf).
 
 ## 🌐 Live Demo
 
